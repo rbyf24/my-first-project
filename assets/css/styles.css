@@ -1,0 +1,18 @@
+
+/* body {
+    background-color: lightgrey;
+    background-image: url("../images/background-img.jpg");
+} */
+
+body {
+    background-color: lightgrey;
+    background-image: url("/assets/images/background-img.jpg");
+}
+
+p {
+    font-weight: bold;
+}
+
+.text-center {
+    text-align: center;
+}
